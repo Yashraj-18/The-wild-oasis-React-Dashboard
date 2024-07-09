@@ -74,7 +74,7 @@ The Wild Oasis Hotel Management Application is built using the following technol
 <p>1. Clone the repository</p>
 
 ```
-https://github.com/Umang-Sharma1/hotel-management.git
+https://github.com/Yashraj-18/The-wild-oasis-React-Dashboard
 ```
 
 <p>2. Install the required dependencies </p>
@@ -99,7 +99,7 @@ http://localhost:5173 or Your Local URL
 
 You can access our application using the following demo account:
 
-- **Email Address** : `test@example.com`
+- **Email Address** : `yash@example.com`
 - **Password** : `test1234`
 
 ##Later Ideas for Project
