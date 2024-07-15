@@ -101,6 +101,7 @@ You can access our application using the following demo account:
 
 - **Email Address** : `yash@example.com`
 - **Password** : `test1234`
+- **Link** : https://the-wild-oasis-dashboard-react.netlify.app/
 
 ##Later Ideas for Project
 1.Created a New Booking Form but not implemented yet later it will be implemented.
